@@ -1,9 +1,5 @@
-### Warisan 17 Tahun. Arsitektur Baru. Kendali Penuh.
+### Kami tidak mengikuti arus. Kami merawat aliran pengetahuan yang kami bangun sendiri.
 
-Kami tidak mengikuti arus. Kami merawat aliran pengetahuan yang kami bangun sendiri.
-
-**Wizdam** adalah infrastruktur penerbitan mandiri yang kami ciptakan untuk mengelola jurnal tanpa kompromi: fitur presisi, pustaka fungsional, dan analisis metrik yang bekerja untuk Anda—bukan untuk orang lain.
+**Sangia Publishing House** menyiapkan infrastruktur penerbitan mandiri untuk mengelola jurnal: fitur presisi, pustaka fungsional, dan analisis metrik.
 
 **Kami menerbitkan masa depan. Dengan alat kami sendiri.**
-
-[sangia.org](https://sangia.org)
