@@ -1,5 +1,3 @@
-### Kami tidak mengikuti arus. Kami merawat aliran pengetahuan yang kami bangun sendiri.
-
 **Sangia Publishing House** menyiapkan infrastruktur penerbitan mandiri untuk mengelola jurnal: fitur presisi, pustaka fungsional, dan analisis metrik.
 
-**Official account of Sangia Publishing House part of Sangia Research Media and Publishing**
+### **Official account of Sangia Publishing House part of Sangia Research Media and Publishing**
